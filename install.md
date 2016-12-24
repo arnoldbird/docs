@@ -4,9 +4,9 @@ Phanbook use extension Phalcon PHP so that running it you need to install Phalco
 
 There are a few things that you will need to have set up in order to run Phanbook:
 
-- A web server: Apache (with mod_rewrite), Nginx
+- A web server: Apache (with mod_rewrite) or Nginx
 - PHP 5.5+ with the following extensions: mbstring, pdo_mysql, openssl, json, gd, dom, fileinfo and Phalcon PHP
-- Mysql and MariaDB
+- Mysql or MariaDB
 - SSH (command-line) access
 
 Fortunately, We have provide some options for you to easy install Phanbook that is Docker and Vagrant, please take look the link below to see how do it work
